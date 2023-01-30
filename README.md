@@ -1,2 +1,2 @@
 # To-Do-ListWebapp
-This is simple todo list web application 
+LGM_task1_TO_dolist webapp
